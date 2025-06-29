@@ -1,7 +1,7 @@
 # Who is Afraid of Free-Range Knowledge?
 How academia buries its head to avoid the unsanctioned
 
-![alt text](https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/free-range-knowledge-2,jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/free-range-knowledge-2.jpg?raw=true)
 
 by Peter Kahl; published 26 June 2025
 
@@ -19,28 +19,46 @@ May it serve as both a provocation and invitation—an incitement to lift heads,
 ### Who is Afraid of Free-Range Knowledge?
 
 The ostrich is the scholar,
+
 tenure at his back —
+
 but buries all that threatens form
+
 in sand that hides the cracks.
 
 Above, the wind sets papers free —
+
 ideas unpenned,
+
 not footnoted by patriarchy,
+
 nor peer-reviewed by friends.
 
+
 A cap lies still beside the hole,
+
 its tassel limp with dust.
+
 He fears the thought that roams unbound,
+
 unbranded, yet robust.
 
+
 He asks: Who cleared this rogue insight?
+
 What board endorsed its claim?
+
 But truth, uncatalogued, still moves —
+
 untethered, free of name.
 
+
 Let knowledge range, undisciplined,
+
 unshackled from decree.
+
 To think is not to kneel and nod,
+
 but to lift the head — and see.
 
 ---
@@ -108,6 +126,7 @@ Cite this work:
 ```
 Peter Kahl, ‘Who is Afraid of Free-Range Knowledge?’ (Github, 2025) <https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/Kahl%20P%2C%20>
 ```
+
 ### Licence
 Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
 
