@@ -1,5 +1,5 @@
 # Who is Afraid of Free-Range Knowledge?
-##### How academia buries its head to avoid the unsanctioned
+#### How academia buries its head to avoid the unsanctioned
 
 ![alt text](https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/free-range-knowledge-2.jpg?raw=true)
 
@@ -21,29 +21,29 @@ May it serve as both a provocation and invitation—an incitement to lift heads,
 The ostrich is the scholar,\
 tenure at his back —\
 but buries all that threatens form\
-in sand that hides the cracks.\
+in sand that hides the cracks.
 
 
-Above, the wind sets papers free —
-ideas unpenned,
-not footnoted by patriarchy,
+Above, the wind sets papers free —\
+ideas unpenned,\
+not footnoted by patriarchy,\
 nor peer-reviewed by friends.
 
-A cap lies still beside the hole,
-its tassel limp with dust.
-He fears the thought that roams unbound,
+A cap lies still beside the hole,\
+its tassel limp with dust.\
+He fears the thought that roams unbound,\
 unbranded, yet robust.
 
 
-He asks: Who cleared this rogue insight?
-What board endorsed its claim?
-But truth, uncatalogued, still moves —
+He asks: Who cleared this rogue insight?\
+What board endorsed its claim?\
+But truth, uncatalogued, still moves —\
 untethered, free of name.
 
 
-Let knowledge range, undisciplined,
-unshackled from decree.
-To think is not to kneel and nod,
+Let knowledge range, undisciplined,\
+unshackled from decree.\
+To think is not to kneel and nod,\
 but to lift the head — and see.
 
 ---
