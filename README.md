@@ -103,8 +103,7 @@ Kahl P, ‘Epistemocracy in Higher Education — A Proposal for Fiduciary and Ep
 Correspondence regarding this work is welcome.
 
 Download this scholarly work as a PDF for sharing and citation:
-[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/master/Kahl%20P%2C%20Epistemic%20Gatekeepers%20and%20Epistemic%20Injustice%20by%20Design%20(26%20June%202025).pdf)
-
+[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf)
 
 Cite this work:
 
