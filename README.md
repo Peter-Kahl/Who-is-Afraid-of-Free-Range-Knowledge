@@ -10,7 +10,7 @@ Knowledge, by nature, resists confinement. Yet, academia’s institutional lands
 
 This fear, however, is rarely acknowledged. Instead, it manifests quietly in mechanisms of epistemic control: peer review, citation metrics, tenure assessments, curricula design. Academia thus becomes the ostrich—head buried deliberately in institutional sand—to avoid confronting knowledge that might threaten established truths, unsettle hierarchies, or challenge prevailing paradigms.
 
-Who is Afraid of Free-Range Knowledge? is a multimodal poetic thesis exploring precisely this institutional anxiety. Blending poetry, philosophical commentary, and visual representation, it interrogates academia’s epistemic responsibilities and ethical commitments, laying bare the contradictions between fiduciary obligations and epistemic virtues. Grounded in my broader scholarly inquiry into epistemic humility, justice, and openness, this work invites readers to rethink scholarly courage, institutional integrity, and the very meaning of knowledge itself.
+*Who is Afraid of Free-Range Knowledge?* is a multimodal poetic thesis exploring precisely this institutional anxiety. Blending poetry, philosophical commentary, and visual representation, it interrogates academia’s epistemic responsibilities and ethical commitments, laying bare the contradictions between fiduciary obligations and epistemic virtues. Grounded in my broader scholarly inquiry into epistemic humility, justice, and openness, this work invites readers to rethink scholarly courage, institutional integrity, and the very meaning of knowledge itself.
 
 May it serve as both a provocation and invitation—an incitement to lift heads, embrace the unsanctioned, and let knowledge roam freely, undisciplined and alive.
 
