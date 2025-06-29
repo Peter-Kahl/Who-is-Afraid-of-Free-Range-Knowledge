@@ -18,10 +18,10 @@ May it serve as both a provocation and invitation—an incitement to lift heads,
 
 ### Who is Afraid of Free-Range Knowledge?
 
-The ostrich is the scholar,
-tenure at his back —
-but buries all that threatens form
-in sand that hides the cracks.
+The ostrich is the scholar,\
+tenure at his back —\
+but buries all that threatens form\
+in sand that hides the cracks.\
 
 
 Above, the wind sets papers free —
