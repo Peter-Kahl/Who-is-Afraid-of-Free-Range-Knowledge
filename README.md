@@ -114,8 +114,3 @@ Peter Kahl, ‘Who is Afraid of Free-Range Knowledge?’ (Github, 2025) <https:/
 
 ### Licence
 Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
-
-
-```
-### Licence
-Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
