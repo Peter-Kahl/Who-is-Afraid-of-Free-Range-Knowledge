@@ -1,7 +1,7 @@
 # Who is Afraid of Free-Range Knowledge?
 How academia buries its head to avoid the unsanctioned
 
-![alt text](https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/free-range-knowledge-2?raw=true)
+![alt text](https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/free-range-knowledge-2,jpg?raw=true)
 
 by Peter Kahl; published 26 June 2025
 
@@ -16,7 +16,8 @@ May it serve as both a provocation and invitation—an incitement to lift heads,
 
 ---
 
-Who is Afraid of Free-Range Knowledge?
+### Who is Afraid of Free-Range Knowledge?
+
 The ostrich is the scholar,
 tenure at his back —
 but buries all that threatens form
@@ -65,7 +66,9 @@ Thus, Who is Afraid of Free-Range Knowledge? is more than a poetic reflection—
 ---
 
 ### Bibliography
+
 Books and Articles
+
 Barnett R, Thinking and Rethinking the University: The Selected Works of Ronald Barnett (Routledge 2020)
 
 Fricker M, Epistemic Injustice: Power and the Ethics of Knowing (Oxford University Press 2007)
@@ -79,6 +82,7 @@ Medina J, The Epistemology of Resistance: Gender and Racial Oppression, Epistemi
 Zagzebski L, Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge (Cambridge University Press 1996)
 
 My Own Published Works
+
 Kahl P, ‘Directors’ Epistemic Duties and Fiduciary Openness’ (Substack, 11 June 2025)
 <https://pkahl.substack.com/p/directors-epistemic-duties-and-fiduciary>
 
@@ -102,9 +106,11 @@ Download this scholarly work as a PDF for sharing and citation:
 Cite this work:
 
 ```
-Peter Kahl, ‘Who is Afraid of Free-Range Knowledge?’ (Substack, 24 June 2025) <https://pkahl.substack.com/p/free-range-knowledge-poem-academic-gatekeeping>
+Peter Kahl, ‘Who is Afraid of Free-Range Knowledge?’ (Github, 2025) <https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/Kahl%20P%2C%20>
+```
+### Licence
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
 
-Peter Kahl, ‘Epistemic Gatekeepers and Epistemic Injustice by Design: Fiduciary Failures in Institutional Knowledge Gatekeeping’ (Github, 2025) <https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/Kahl%20P%2C%20Epistemic%20Gatekeepers%20and%20Epistemic%20Injustice%20by%20Design%20(26%20June%202025).pdf>
 ```
 ### Licence
 Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
