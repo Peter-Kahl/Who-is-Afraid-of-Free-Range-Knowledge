@@ -108,7 +108,7 @@ Download this scholarly work as a PDF for sharing and citation:
 Cite this work:
 
 ```
-Peter Kahl, ‘Who is Afraid of Free-Range Knowledge?’ (Github, 2025) <https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/Kahl%20P%2C%20>
+Peter Kahl, ‘Who is Afraid of Free-Range Knowledge?’ (Github, 2025) <https://raw.githubusercontent.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf>
 ```
 
 ### Licence
