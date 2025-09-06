@@ -101,16 +101,20 @@ Kahl P, ‘Epistemocracy in Higher Education — A Proposal for Fiduciary and Ep
 
 ---
 
-Correspondence regarding this work is welcome.
+### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
 
-Download this scholarly work as a PDF for sharing and citation:
-- [PDF download](https://raw.githubusercontent.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf)
 
-Cite this work:
+### Cite this work:
 
 ```
 Kahl, Peter, Who is Afraid of Free-Range Knowledge? How academia buries its head to avoid the unsanctioned (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge>
 ```
 
-### Licence
-Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International Licence (CC BY-NC-ND 4.0)
+### Publisher & Licence
+
+First published in Great Britain by Peter Kahl 26 June 2025
+
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
