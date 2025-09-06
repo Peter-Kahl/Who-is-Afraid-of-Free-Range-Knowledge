@@ -1,9 +1,10 @@
 # Who is Afraid of Free-Range Knowledge?
+
 #### How academia buries its head to avoid the unsanctioned
 
-![alt text](https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/free-range-knowledge-2.jpg?raw=true)
-
 by Peter Kahl; published 26 June 2025
+
+![alt text](https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/free-range-knowledge-2.jpg?raw=true)
 
 ### Prologue
 Knowledge, by nature, resists confinement. Yet, academia’s institutional landscape is shaped by walls, boundaries, and meticulously policed epistemic borders. Ideas require permission, approval, validation. Gatekeepers patrol corridors, safeguarding disciplinary identities, scholarly traditions, and authoritative claims. Knowledge produced outside these boundaries—unfootnoted, peer-unapproved, intellectually ungoverned—is not merely marginalised; it is feared.
@@ -103,12 +104,12 @@ Kahl P, ‘Epistemocracy in Higher Education — A Proposal for Fiduciary and Ep
 Correspondence regarding this work is welcome.
 
 Download this scholarly work as a PDF for sharing and citation:
-[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf)
+- [PDF download](https://raw.githubusercontent.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf)
 
 Cite this work:
 
 ```
-Peter Kahl, ‘Who is Afraid of Free-Range Knowledge?’ (Github, 2025) <https://raw.githubusercontent.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf>
+Kahl, Peter, Who is Afraid of Free-Range Knowledge? How academia buries its head to avoid the unsanctioned (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge>
 ```
 
 ### Licence
