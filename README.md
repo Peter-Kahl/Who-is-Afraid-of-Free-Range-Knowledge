@@ -1,12 +1,13 @@
 # Who is Afraid of Free-Range Knowledge?
 
-#### How academia buries its head to avoid the unsanctioned
+### How academia buries its head to avoid the unsanctioned
 
-by Peter Kahl; published 26 June 2025
+by Peter Kahl, 26 June 2025
 
 ![alt text](https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/blob/main/free-range-knowledge-2.jpg?raw=true)
 
 ### Prologue
+
 Knowledge, by nature, resists confinement. Yet, academia’s institutional landscape is shaped by walls, boundaries, and meticulously policed epistemic borders. Ideas require permission, approval, validation. Gatekeepers patrol corridors, safeguarding disciplinary identities, scholarly traditions, and authoritative claims. Knowledge produced outside these boundaries—unfootnoted, peer-unapproved, intellectually ungoverned—is not merely marginalised; it is feared.
 
 This fear, however, is rarely acknowledged. Instead, it manifests quietly in mechanisms of epistemic control: peer review, citation metrics, tenure assessments, curricula design. Academia thus becomes the ostrich—head buried deliberately in institutional sand—to avoid confronting knowledge that might threaten established truths, unsettle hierarchies, or challenge prevailing paradigms.
@@ -69,46 +70,14 @@ Thus, *Who is Afraid of Free-Range Knowledge?* is more than a poetic reflection�
 
 ---
 
-### Bibliography
-
-Books and Articles
-
-Barnett R, *Thinking and Rethinking the University: The Selected Works of Ronald Barnett* (Routledge 2020)
-
-Fricker M, *Epistemic Injustice: Power and the Ethics of Knowing* (Oxford University Press 2007)
-
-hooks b, *Teaching to Transgress: Education as the Practice of Freedom* (Routledge 1994)
-
-Giroux HA, *On Critical Pedagogy* (Bloomsbury Academic 2011)
-
-Medina J, *The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations* (Oxford University Press 2013)
-
-Zagzebski L, *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge* (Cambridge University Press 1996)
-
-My Own Published Works
-
-Kahl P, ‘Directors’ Epistemic Duties and Fiduciary Openness’ (Substack, 11 June 2025)
-<https://pkahl.substack.com/p/directors-epistemic-duties-and-fiduciary>
-
-Kahl P, ‘Epistemic Humility and the Transposition of Ethical Duties into Epistemic Duties’ (Substack, 21 June 2025)
-<https://pkahl.substack.com/p/epistemic-humility-fiduciary-duties-ethics>
-
-Kahl P, ‘Epistemic Justice and Institutional Responsibility in Academia’ (Substack, 7 June 2025)
-<https://pkahl.substack.com/p/epistemic-justice-and-institutional>
-
-Kahl P, ‘Epistemocracy in Higher Education — A Proposal for Fiduciary and Epistemic Accountability’ (Substack, 19 June 2025)
-<https://pkahl.substack.com/p/epistemocracy-higher-education-fiduciary-epistemic-accountability>
-
----
-
-### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
+### Download Latest Edition
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf)
 
-### Cite this work:
+### Cite this work
 
 ```
-Kahl, Peter, Who is Afraid of Free-Range Knowledge? How academia buries its head to avoid the unsanctioned (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge>
+Kahl, P. (2025). Who is Afraid of Free-Range Knowledge? How academia buries its head to avoid the unsanctioned. Lex et Ratio Ltd. https://github.com/Peter-Kahl/Who-is-Afraid-of-Free-Range-Knowledge
 ```
 
 ### Publisher & Licence
